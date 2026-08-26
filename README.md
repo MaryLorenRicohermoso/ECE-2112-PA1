@@ -6,6 +6,11 @@ Create a function named rotate_word() that accepts aa non-empty string. Move the
 
 The following string indexing and slicing techniques were used in this problem:
 
- 
+• `text[0]` - accesses the first character of the string. Since Python uses zero-based indexing, index "0" represents the first character. 
+
+Example: 
+      `text = "python" 
+       text[0] --> "p`
+
 
 
